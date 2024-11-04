@@ -9,7 +9,7 @@ class Solution {
             if (nums[l] == nums[mid] && nums[mid] == nums[r]) {
                 l++;
                 r--;
-                continue;
+                
             }
             else if(nums[l]<=nums[mid])
             {

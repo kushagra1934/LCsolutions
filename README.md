@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->

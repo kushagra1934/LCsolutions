@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
+| [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kushagra1934/LCsolutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
+| [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
+| [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |

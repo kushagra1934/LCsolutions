@@ -40,6 +40,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |

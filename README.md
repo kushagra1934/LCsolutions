@@ -13,6 +13,7 @@
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -43,11 +45,13 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |

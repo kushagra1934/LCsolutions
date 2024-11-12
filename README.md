@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kushagra1934/LCsolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kushagra1934/LCsolutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kushagra1934/LCsolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kushagra1934/LCsolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

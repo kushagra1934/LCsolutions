@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/kushagra1934/LCsolutions/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0119-pascals-triangle-ii) |
+| [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
@@ -99,4 +100,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushagra1934/LCsolutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

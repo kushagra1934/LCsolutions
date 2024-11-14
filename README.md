@@ -58,6 +58,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/kushagra1934/LCsolutions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
+| [0372-super-pow](https://github.com/kushagra1934/LCsolutions/tree/master/0372-super-pow) |
 ## Enumeration
 |  |
 | ------- |

@@ -12,6 +12,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

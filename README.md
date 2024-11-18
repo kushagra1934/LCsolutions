@@ -18,6 +18,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2714-left-and-right-sum-differences](https://github.com/kushagra1934/LCsolutions/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +135,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
+| [2714-left-and-right-sum-differences](https://github.com/kushagra1934/LCsolutions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->

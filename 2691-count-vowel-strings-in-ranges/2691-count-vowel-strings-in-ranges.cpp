@@ -41,9 +41,9 @@ public:
         }
         vector<int> answer;
         for(int i =0; i<queries.size();i++){
-            int left = queries[i][0];
-            int right = queries[i][1];
-            answer.push_back(prefix[right + 1] - prefix[left]);
+            int left = queries[i][0]+1;
+            int right = queries[i][1]+1;
+            answer.push_back(prefix[right] - prefix[left-1]);
             
         }
         return answer;

@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushagra1934/LCsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushagra1934/LCsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
@@ -139,4 +141,8 @@
 | [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kushagra1934/LCsolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kushagra1934/LCsolutions/tree/master/2714-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushagra1934/LCsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

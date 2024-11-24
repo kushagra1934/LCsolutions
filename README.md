@@ -145,4 +145,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushagra1934/LCsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

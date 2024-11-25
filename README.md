@@ -50,6 +50,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushagra1934/LCsolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kushagra1934/LCsolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
@@ -148,5 +149,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kushagra1934/LCsolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

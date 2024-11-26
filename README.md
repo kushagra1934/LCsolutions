@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/kushagra1934/LCsolutions/tree/master/0263-ugly-number) |
 | [0372-super-pow](https://github.com/kushagra1934/LCsolutions/tree/master/0372-super-pow) |
 ## Enumeration
 |  |

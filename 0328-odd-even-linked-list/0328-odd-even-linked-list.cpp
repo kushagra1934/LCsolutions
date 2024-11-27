@@ -41,6 +41,13 @@ public:
                 break;
             }
         }
-        return convertArr2LL(arr);
+        int i =0; 
+        temp = head;
+        while(temp!=NULL){
+            temp->val=arr[i];
+            i++;
+            temp=temp->next;
+        }
+        return head;
     }
 };

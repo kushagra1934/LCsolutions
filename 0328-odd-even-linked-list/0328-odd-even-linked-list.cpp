@@ -10,17 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* convertArr2LL(vector<int> &arr){
-        if(arr.empty()) return nullptr;
-        ListNode* head = new ListNode(arr[0]);
-        ListNode* mover= head;
-        for(int i =1; i<arr.size(); i++){
-            ListNode* temp=new ListNode(arr[i]);
-            mover->next=temp;
-            mover=mover->next;
-        }
-        return head;
-    }
     ListNode* oddEvenList(ListNode* head) {
         vector<int> arr;
         ListNode* temp = head; 

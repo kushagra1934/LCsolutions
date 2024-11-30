@@ -61,6 +61,7 @@
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

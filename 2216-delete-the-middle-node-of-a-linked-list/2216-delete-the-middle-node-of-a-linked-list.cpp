@@ -14,31 +14,18 @@ public:
         if(head==NULL || head->next==NULL){
             return NULL;
         }
-        ListNode* temp = head; 
-        int n=0;
-        while(temp != NULL){
-            temp = temp -> next; 
-            n++;
-        }
+        ListNode* slow= head; 
+        ListNode* fast= head;
+        fast=fast->next->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
 
-        ListNode* prev= NULL;
-        temp= head;
-        int cnt=0;
-        int middle=n/2;
-        while(temp!=NULL){
-            if(cnt==middle){
-                prev->next=prev->next->next;
-                cnt++;
-            }
-            else{
-                prev=temp;
-                temp=temp->next;
-                cnt++;
-
-                
-            }
         }
+        slow->next=slow->next->next;
         return head;
+
+
 
     }
     

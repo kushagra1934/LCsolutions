@@ -18,6 +18,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kushagra1934/LCsolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kushagra1934/LCsolutions/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kushagra1934/LCsolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |

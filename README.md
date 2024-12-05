@@ -64,6 +64,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kushagra1934/LCsolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kushagra1934/LCsolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |

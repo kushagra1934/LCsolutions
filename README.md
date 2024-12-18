@@ -17,6 +17,7 @@
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushagra1934/LCsolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kushagra1934/LCsolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -150,10 +151,12 @@
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushagra1934/LCsolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushagra1934/LCsolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |

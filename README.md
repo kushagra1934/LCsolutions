@@ -140,6 +140,7 @@
 | [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/kushagra1934/LCsolutions/tree/master/0263-ugly-number) |
 | [0372-super-pow](https://github.com/kushagra1934/LCsolutions/tree/master/0372-super-pow) |
+| [2050-count-good-numbers](https://github.com/kushagra1934/LCsolutions/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushagra1934/LCsolutions/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/kushagra1934/LCsolutions/tree/master/2050-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

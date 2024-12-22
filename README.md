@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -32,6 +33,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kushagra1934/LCsolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kushagra1934/LCsolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -140,6 +142,7 @@
 | [0204-count-primes](https://github.com/kushagra1934/LCsolutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/kushagra1934/LCsolutions/tree/master/0263-ugly-number) |
 | [0372-super-pow](https://github.com/kushagra1934/LCsolutions/tree/master/0372-super-pow) |
+| [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
 | [2050-count-good-numbers](https://github.com/kushagra1934/LCsolutions/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kushagra1934/LCsolutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kushagra1934/LCsolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/kushagra1934/LCsolutions/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window

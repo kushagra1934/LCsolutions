@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kushagra1934/LCsolutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kushagra1934/LCsolutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/kushagra1934/LCsolutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0119-pascals-triangle-ii) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 ## String Matching
@@ -204,5 +206,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/kushagra1934/LCsolutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kushagra1934/LCsolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kushagra1934/LCsolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -121,6 +122,7 @@
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
+| [1524-string-matching-in-an-array](https://github.com/kushagra1934/LCsolutions/tree/master/1524-string-matching-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2232-adding-spaces-to-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kushagra1934/LCsolutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra1934/LCsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/kushagra1934/LCsolutions/tree/master/1524-string-matching-in-an-array) |
 ## Greedy
 |  |
 | ------- |

@@ -20,6 +20,7 @@
 | [0493-reverse-pairs](https://github.com/kushagra1934/LCsolutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
 | [0941-sort-array-by-parity](https://github.com/kushagra1934/LCsolutions/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0952-word-subsets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kushagra1934/LCsolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kushagra1934/LCsolutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/kushagra1934/LCsolutions/tree/master/1524-string-matching-in-an-array) |
@@ -40,6 +41,7 @@
 | [0229-majority-element-ii](https://github.com/kushagra1934/LCsolutions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/kushagra1934/LCsolutions/tree/master/0523-continuous-subarray-sum) |
+| [0952-word-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0952-word-subsets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kushagra1934/LCsolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kushagra1934/LCsolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -123,6 +125,7 @@
 | [0389-find-the-difference](https://github.com/kushagra1934/LCsolutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/kushagra1934/LCsolutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/kushagra1934/LCsolutions/tree/master/0657-robot-return-to-origin) |
+| [0952-word-subsets](https://github.com/kushagra1934/LCsolutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/kushagra1934/LCsolutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kushagra1934/LCsolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kushagra1934/LCsolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
